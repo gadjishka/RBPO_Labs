@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "bin\\Debug\\x64\\Math.ixx.obj",
+            "outputs": [
+                "Z:\\Downloads\\CppLab5-main\\bin\\Debug\\x64\\MathLib.pdb",
+                "bin\\Debug\\x64\\",
+                "Z:\\Downloads\\CppLab5-main\\MathLib\\bin\\Debug\\x64\\Math.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Math",
+                    "source-path": "z:\\downloads\\cpplab5-main\\mathlib\\math.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

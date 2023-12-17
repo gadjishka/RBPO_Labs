@@ -1,0 +1,10 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  Math.ixx
+  Компиляция…
+  Math.ixx
+Z:\Downloads\CppLab5-main\MathLib\Math.ixx(105,26): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+Z:\Downloads\CppLab5-main\MathLib\Math.ixx(106,26): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+Z:\Downloads\CppLab5-main\MathLib\Math.ixx(147,25): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+Z:\Downloads\CppLab5-main\MathLib\Math.ixx(150,25): warning C4455: "operator ""i": идентификаторы литеральных суффиксов, которые начинаются не с символа подчеркивания, зарезервированы
+Z:\Downloads\CppLab5-main\MathLib\Math.ixx(299,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MathLib.vcxproj -> Z:\Downloads\CppLab5-main\bin\Debug\x64\MathLib.lib
